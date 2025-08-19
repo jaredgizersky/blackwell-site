@@ -104,7 +104,7 @@ export default function NoSugrPage() {
           {/* Footer */}
           <div className="mt-20 pt-8 border-t border-border/20 text-center">
             <div className="flex justify-center items-center space-x-6 text-sm text-muted-foreground">
-              <a href="/nosugr/policy" className="hover:text-primary transition-colors">
+              <a href="/nosugr/privacy" className="hover:text-primary transition-colors">
                 Privacy Policy
               </a>
               <span>•</span>
