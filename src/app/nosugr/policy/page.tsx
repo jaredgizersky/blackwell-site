@@ -76,7 +76,7 @@ export default function NoSugrPrivacyPolicy() {
                 <li>Anonymous usage statistics may be retained for service improvement</li>
               </ul>
 
-              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Children's Privacy</h2>
+              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Children&apos;s Privacy</h2>
               <p className="mb-8">
                 NoSugr is not intended for children under 13. We do not knowingly collect personal information from children under 13.
               </p>
