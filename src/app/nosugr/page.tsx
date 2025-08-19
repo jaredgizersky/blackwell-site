@@ -1,5 +1,3 @@
-"use client"
-
 export default function NoSugrPage() {
   return (
     <main className="min-h-screen bg-background relative overflow-hidden">
